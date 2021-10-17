@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @tarikkarsik
+- 👀 I’m interested in OPENCV
